@@ -1,0 +1,50 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background:lightcyan; 
+}
+
+.main_div{
+    background:white;
+    color:red;
+}
+
+.main_div img{
+    width: 100px;
+}
+
+.capture{
+    margin-top: 15px;
+    padding: 10px;
+    background:#ffd2c7 ;
+    border:3px solid white;
+}
+
+#camera , #result{
+    width: 300px;
+    height: 300px;
+    border:3px solid white;
+    box-shadow:5px 5px 18px white;
+}
+
+.footer {
+    margin-bottom: 50px;
+}
+
+.footer h4{
+    background: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer img{
+    width: 60px;
+}
+
+.copy_write{
+    text-align: center;
+    width: 100%;
+    background:rgb(241, 241, 241);
+    line-height: 20px;
+    bottom: 0;
+    position:fixed;
+}
